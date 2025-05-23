@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @anki-space
+/src/backend/database.py      @anki-space
+/src/backend/routers/auth.py  @anki-space
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @anki-space
